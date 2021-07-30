@@ -238,4 +238,4 @@ result = model.predict(origin=["test1.jpg"], style="style_demo_img2.jpg", visual
 
 ２. [DS变沙画-PaddleHub的迁移训练style Transfer图像迁移](https://aistudio.baidu.com/aistudio/projectdetail/2012947?channelType=0&channel=0)　　
 
-３.[Paddlehub msgnet官网](https://www.paddlepaddle.org.cn/hubdetail?name=msgnet&en_category=ImageEditing)
+３. [Paddlehub msgnet官网](https://www.paddlepaddle.org.cn/hubdetail?name=msgnet&en_category=ImageEditing)
